@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Calculator Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a calculator website built using HTML, CSS, JavaScript, and React. The website provides a functional calculator interface where users can perform basic arithmetic operations. It offers a user-friendly design and allows users to input numbers, perform calculations, and view the results in real-time.
 
-## Available Scripts
+![image](https://github.com/Karthikeyan-018/React-Calculator/assets/78362595/b0c723d8-2dd5-434a-8f66-27edd6df1105)
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
+- **Real-Time Calculations**: View the results instantly as you input numbers and perform operations.
+- **Responsive Design**: Optimized for various screen sizes and devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- HTML5
+- CSS3
+- JavaScript
+- React
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To install and run the calculator website locally, follow these steps:
 
-### `npm run build`
+1. Clone the repository:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```
+   git clone https://github.com/Karthikeyan-018/calculator-website.git
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Navigate to the project directory:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```
+   cd calculator-website
+   ```
 
-### `npm run eject`
+3. Install the dependencies:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```
+   npm install
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Start the development server:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```
+   npm start
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+5. Open your web browser and navigate to `http://localhost:3000`.
 
-## Learn More
+## Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Use the buttons on the calculator to input numbers and perform operations.
+- View the result in real-time as you enter numbers and perform calculations.
+- Perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+- Clear the input or reset the calculator using the appropriate buttons.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
+Contributions to the calculator website are welcome. If you find any bugs, have feature requests, or want to contribute in any other way, please open an issue or submit a pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Acknowledgements
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- This calculator website is built as a learning project to practice HTML, CSS, JavaScript, and React.
